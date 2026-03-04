@@ -1,0 +1,23 @@
+{
+  "name": "quantum-lattice-token",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "@web3-react/core": "latest",
+    "@web3-react/injected-connector": "latest",
+    "ethers": "latest"
+  },
+  "devDependencies": {
+    "postcss": "latest",
+    "autoprefixer": "latest"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
